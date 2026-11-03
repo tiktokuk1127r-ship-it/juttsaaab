@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Number Checker PRO",
+  "description": "High-performance multi-session WhatsApp number verification engine with live queue processing, member quotas, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
